@@ -1,7 +1,7 @@
 # wwclip
 
-# Author
+## Author
 ryokohbato
 
-# License
+## License
 **wwclip** is under the MIT License. See [LICENSE](https://github.com/ryokohbato/wwclip/blob/main/LICENSE).
